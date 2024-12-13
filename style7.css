@@ -9,7 +9,7 @@ body, html {
 
 /* Container settings */
 .container {
-    background-image: url('/asset/IMG_8612.jpeg'); /* Path to your image */
+    background-image: url('asset/IMG_8612.jpeg'); /* Path to your image */
     background-size: cover;
     background-repeat: no-repeat;
     display: flex;
