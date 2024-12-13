@@ -1,3 +1,7 @@
+body {
+    background-color: #A3D8F4; /* Blue color */
+}
+
 /* Container for the projects page */
 .containers {
     text-align: center;
