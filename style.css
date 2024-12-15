@@ -36,7 +36,7 @@ nav ul li{
     margin-top: 0px;    /* Space above each item */
     margin-bottom: 0px; /* Space below each item */
 }
-nav ul li{
+nav ul li a{
     text-decoration: none;
     color: #ffffff !important; /* Ensure text is white inside <a> */
 }
